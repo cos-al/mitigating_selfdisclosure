@@ -24,6 +24,8 @@ pip install -r requirements.txt
 - `processed.csv` - This file contains a sample of texts from the MedSD dataset that were processed using ChatGPT (rephrasing and sensitivity score). 
 - `analysed_sample.csv` - This file contains a sample of texts from the MedSD dataset that were analyzed for semantic similarity, using both a model and human evaluations.
 
+## Figures
+In the folders `figures` and `figures-amazon` there are the plots presented in the paper.
 
 ## Pipeline for generating rephrasing of reviews
 
